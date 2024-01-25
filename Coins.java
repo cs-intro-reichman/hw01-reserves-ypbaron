@@ -7,6 +7,6 @@ public class Coins {
 		int m = Integer.parseInt(args[0]);
 		int q = m / 25;
 		int c = m - (q * 25);
-		System.out.println("Use " + q + " quarters and " + c + " cents.");
+		System.out.println("Use " + q + " quarters and " + c + " cents");
 	}
 }
